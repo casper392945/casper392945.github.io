@@ -173,7 +173,7 @@
           },
           "title": "ТЕРМОПАНЕЛИ",
           "text": "Термопанели Аляска изготовляются в Заводских условиях, на сложной технологической лини, оснащенной компьютерным управлением, исключая участие человеческого фактора на ответственных участках, от которых зависит качество продукции. Это позволяет нам нести ответственность за свой продукт и возможность предоставить 50-летнюю гарантию на термопанели. Гарантируется высокое качество стыковки панелей, идеальная геометрическая форма, четкое соблюдение вертикальной и горизонтальной рядности клинкера.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a> "
         },
         {
           "_tags": [
@@ -187,7 +187,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc04505-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -198,7 +198,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts1-7\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-5\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
               },
               {
                 "active": false,
@@ -208,14 +208,14 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "VIDEO SLIDE",
+                "title": "МОНТАЖ",
                 "showText": true,
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-5\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/cimg0547-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -226,7 +226,7 @@
                 "showText": true,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-5\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
               }
             ],
             "fullScreen": true,
@@ -234,7 +234,15 @@
             "showBullets": true
           },
           "_anchor": "slider-2",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H2": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
