@@ -476,11 +476,18 @@ h6,
   color: #c0a375!important;
 }
 #msg-box2-9 .mbr-section-title {
-  color: #fff;
+  color: #ffffff;
   text-align: center;
 }
 #msg-box2-9 .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #efefef;
+}
+#msg-box2-a .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box2-a .mbr-section-subtitle {
+  color: #efefef;
 }
 #slider-2 P {
   text-align: right;
@@ -488,11 +495,32 @@ h6,
 #slider-2 H2 {
   text-align: right;
 }
+#msg-box2-b .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box2-b .mbr-section-subtitle {
+  color: #efefef;
+}
+#msg-box2-c .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box2-c .mbr-section-subtitle {
+  color: #efefef;
+}
 #testimonials3-4 .mbr-section-title {
   color: #efefef;
 }
 #testimonials3-4 .mbr-author-name {
   color: #ccc;
+}
+#msg-box2-d .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box2-d .mbr-section-subtitle {
+  color: #efefef;
 }
 #pricing-table2-5 .mbr-plan-header,
 #pricing-table2-5 .mbr-plan-body {
@@ -510,4 +538,14 @@ h6,
 }
 #pricing-table2-5 .mbr-plan .list-group-item {
   border-color: #cfcfcf;
+}
+#msg-box2-e .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box2-e .mbr-section-subtitle {
+  color: #efefef;
+}
+#form1-f .form-control-label {
+  color: #232323;
 }
