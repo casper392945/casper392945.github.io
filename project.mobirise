@@ -233,7 +233,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-a",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -341,7 +341,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-b",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -497,7 +497,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-c",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -616,7 +616,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-d",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -738,7 +738,7 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-e",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -766,6 +766,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-f",
           "_params": {
             "labelsColor": "#232323",
@@ -782,41 +787,36 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "НАПИШИТЕ НАМ",
+          "subtitle": "Оставьте сообщение и мы с Вами свяжемся.",
           "form": {
-            "action": "casper392945@gmail.com",
+            "action": "termopanels55@mail.cu",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо за сообщение!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Имя*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Почта*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone"
+                "customTitle": "Телефон*"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
         },
         {
           "_tags": [
@@ -853,7 +853,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Contacts</strong><br>\nEmail: termopanels55@mail.ru<br>\nPhone: +7 (913) 999- 9999<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\nWebsite builder<br>\nDownload for Windows<br>\nDownload for Mac"
         },
         {
