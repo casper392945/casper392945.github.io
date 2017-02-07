@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 19,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -120,8 +120,8 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+7 (913) 999-9999</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\">ОПИСАНИЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\" aria-expanded=\"false\">АКЦИИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\" aria-expanded=\"false\">ПРОДУКЦИЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-5\" aria-expanded=\"false\">ЦЕНЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-7\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+7 (900) 671-9955</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\">ОПИСАНИЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\" aria-expanded=\"false\">АКЦИИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\" aria-expanded=\"false\">ПРОДУКЦИЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-h\" aria-expanded=\"false\">СЕРТИФИКАТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-5\" aria-expanded=\"false\">ЦЕНЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-7\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -160,7 +160,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
           "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (913) 999-9999"
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
           "_tags": [
@@ -254,7 +254,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
           "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (913) 999-9999"
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
           "_tags": [
@@ -362,7 +362,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
           "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (913) 999-9999"
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
           "_tags": [
@@ -518,7 +518,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
           "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (913) 999-9999"
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
           "_inherit": "testimonials1",
@@ -637,7 +637,71 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
           "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (913) 999-9999"
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-h",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/viber-image-1400x1981.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
+          "title": "ВНИМАНИЕ! АКЦИЯ!",
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
           "_inherit": "pricing-table1",
@@ -759,7 +823,7 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
           "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (913) 999-9999"
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
           "_tags": [
@@ -853,7 +917,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: termopanels55@mail.ru<br>\nPhone: +7 (913) 999- 9999<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Contacts</strong><br>\nEmail: termopanels55@mail.ru<br>\nPhone: +7 (900) 671-9955<br>\nFax: +1 (0) 000 0000 002",
           "text3": "<strong>Links</strong><br>\nWebsite builder<br>\nDownload for Windows<br>\nDownload for Mac"
         },
         {
