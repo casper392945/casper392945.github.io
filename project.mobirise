@@ -385,7 +385,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -394,7 +394,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/dsc-600x398.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1-600x1239.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -410,7 +410,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/12-600x417.png",
+              "src": "@PROJECT_PATH@/assets/images/2-600x1254.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -426,7 +426,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"index.html#contacts1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/it7ciboifpa-600x452.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3-600x1234.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -442,7 +442,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"index.html#contacts1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/termopaneli-dlya-oblitsovki-doma-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/4-600x1269.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -458,10 +458,14 @@
           "button4": "<a data-app-btn=\"true\" href=\"index.html#contacts1-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/5-600x1281.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "Trendy Website Blocks",
@@ -470,10 +474,14 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/6-600x1275.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title6": "Host Anywhere",
