@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 25,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "true",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "ТЕРМОПАНЕЛИ \"АЛЯСКА\"",
+        "meta_descr": "Клинкерные термопанели — прекрасный фасадный материал, обладающий многими плюсами. Такой материал надежно защищает фасад дома от влаги и механических повреждений, хорошо сохраняет тепло и нормальный микроклимат внутри здания. Кроме того, термопанелям с клинкерной плиткой не страшны гниль и коррозия, действие прямых солнечных лучей и резких скачков температур. Они долгие годы будут сохранять красоту фасадов вашего дома и радовать вас своим внешним видом.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">+7 (900) 671-9955</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\">ОПИСАНИЕ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-3\" aria-expanded=\"false\">АКЦИИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">ПРОДУКЦИЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-h\" aria-expanded=\"false\">СЕРТИФИКАТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-5\" aria-expanded=\"false\">ЦЕНЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-7\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\">ОПИСАНИЕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-n\" aria-expanded=\"false\">ПРОДУКЦИЯ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-4\" aria-expanded=\"false\">ОТЗЫВЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#image1-h\" aria-expanded=\"false\">СЕРТИФИКАТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-5\" aria-expanded=\"false\">ЦЕНЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-7\" aria-expanded=\"false\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -220,7 +220,7 @@
               "active": true
             }
           },
-          "title": "ТЕРМОПАНЕЛИ",
+          "title": "ТЕРМОПАНЕЛИ \"АЛЯСКА\"",
           "text": "Термопанели Аляска изготовляются в Заводских условиях, на сложной технологической лини, оснащенной компьютерным управлением, исключая участие человеческого фактора на ответственных участках, от которых зависит качество продукции. Это позволяет нам нести ответственность за свой продукт и возможность предоставить 50-летнюю гарантию на термопанели. Гарантируется высокое качество стыковки панелей, идеальная геометрическая форма, четкое соблюдение вертикальной и горизонтальной рядности клинкера.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a> "
         },
@@ -270,10 +270,10 @@
           "_name": "slider",
           "_styles": {
             "P": {
-              "text-align": "right"
+              "text-align": "center"
             },
             "H2": {
-              "text-align": "right"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -290,25 +290,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "FULL SCREEN SLIDER",
+                "title": "ТЕРМОПАНЕЛИ \"АЛЯСКА\"",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Внешний слой фасадных термопанелей с клинкером обычно выполнен в виде кирпичной или каменной кладки с разной фактурой и цветом плитки. При производстве такого материала готовую плитку с крепежными деталями (закладными втулками) укладывают в специальные матрицы, которые затем заливают жидким пенополистиролом. Затвердевая, пенополистирол создает цельную конструкцию, не имеющую стыков и щелей, что исключает проникновение холода и сквозняков под облицовку после монтажа термопанелей. .",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-5\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=tZDfH4gEmxQ",
-                "overlay": true,
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "МОНТАЖ",
-                "showText": true,
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-5\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
               },
               {
                 "active": true,
@@ -316,11 +302,11 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "showTitle": true,
-                "title": "IMAGE SLIDE",
+                "title": "ТЕРМОПАНЕЛИ \"АЛЯСКА\"",
                 "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "Термопанели Аляска изготовляются в Заводских условиях, на сложной технологической линии, оснащенной компьютерным управлением, исключая участие человеческого фактора на ответственных участках, от которых зависит качество продукции. Это позволяет нам нести ответственность за свой продукт и возможность предоставить 50-летнюю гарантию на термопанели. Гарантируется высокое качество стыковки панелей, идеальная геометрическая форма, четкое соблюдение вертикальной и горизонтальной рядности клинкера. ",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">БОЛЬШЕ ИНФОРМАЦИИ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#pricing-table2-5\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>"
               }
@@ -536,6 +522,167 @@
           "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features3-o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4.krem-glatt.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Термопанель рядовая",
+          "subtitle1": "01. Krem glatt",
+          "caption1": "утеплитель: <b>экструдированный полистирол</b><br>плитка:&nbsp;<b>клинкер</b><br>длина, ширина, мм:&nbsp;<b>1050*620</b><br>&nbsp;площадь панели, м2:&nbsp; <b>0,65</b><br>&nbsp;толщина, мм:: <b>30</b><br>&nbsp;цена за шт. (руб) :&nbsp;<b>1098.5</b><br>цена за. м2 (руб.): <b>1690</b><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/10.-gobi-rustik.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Термопанель рядовая",
+          "subtitle2": "05. Gobi rustik",
+          "caption2": "утеплитель: <b>экструдированный полистирол</b><br>плитка: <b>клинкер</b><br>длина, ширина, мм: <b>1050*620</b><br> площадь панели, м2:  <b>0,65</b><br> толщина, мм:: <b>30</b><br> цена за шт. (руб) : <b>1118</b><br>цена за. м2 (руб.): <b>1720</b><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/9-burgund-glatt.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Термопанель рядовая",
+          "subtitle3": "09. Burgund glatt",
+          "caption3": "утеплитель: <b>экструдированный полистирол</b><br>плитка: <b>клинкер</b><br>длина, ширина, мм: <b>1050*620</b><br> площадь панели, м2:  <b>0,65</b><br> толщина, мм:: <b>30</b><br> цена за шт. (руб) : <b>1085.5</b><br>цена за. м2 (руб.):<b> 1670</b><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/18.semir-beige-struktur.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Термопанель рядовая",
+          "subtitle4": "19. Semir beige struktur",
+          "caption4": "утеплитель: <b>экструдированный полистиро</b>л<br>плитка: <b>клинкер</b><br>длина, ширина, мм: <b>1050*620</b><br> площадь панели, м2:  <b>0,65</b><br> толщина, мм:: <b>30</b><br> цена за шт. (руб) :<b> 1105</b><br>цена за. м2 (руб.): <b>.1700</b>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
+          "title": "ВНИМАНИЕ! АКЦИЯ!",
+          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
+        },
+        {
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
@@ -678,128 +825,6 @@
             "showText": false
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#efefef"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-i",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#features3-3\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
-          "title": "ВНИМАНИЕ! АКЦИЯ!",
-          "text": "За подробной информацией обращайтесь к менеджеру по тел: +7 (900) 671-9955"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-5",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
-          },
-          "title": "ТАБЛИЦА ЦЕН",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
-          "price1": "0",
-          "period1": "/mo.",
-          "description1": "More details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "More details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"#bottom\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>"
         },
         {
           "_styles": {
