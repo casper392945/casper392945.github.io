@@ -956,9 +956,9 @@
               "newWindow": false
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: termopanels55@mail.ru<br>\nPhone: +7 (900) 671-9955<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<strong>Links</strong><br>\nWebsite builder<br>\nDownload for Windows<br>\nDownload for Mac"
+          "text1": "<strong>Address</strong><br>г. Омск, ул. Ангарская, д. 14, офис 1",
+          "text2": "<strong>Contacts</strong><br>\nEmail: termopanels55@mail.ru<br>\nPhone: +7 (900) 671-9955<br><br>",
+          "text3": "<strong>Links</strong><br><br><br><br>"
         },
         {
           "_tags": [
