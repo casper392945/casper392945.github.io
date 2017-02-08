@@ -690,6 +690,9 @@
             },
             ".mbr-author-name": {
               "color": "#ccc"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -744,10 +747,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "count": 3,
-            "showImages": false,
+            "count": "3",
+            "showImages": true,
             "showName": true,
-            "showBio": false,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dover-brik-66-dw-2000x1650.jpg",
@@ -757,7 +760,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false
+            "showSubtitle": true
           },
           "title": "ЧТО ГОВОРЯТ О НАС НАШИ КЛИЕНТЫ",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
