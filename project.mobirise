@@ -1260,11 +1260,11 @@
                 "image": "@PROJECT_PATH@/assets/images/18.semir-beige-struktur.png",
                 "onsale": "-10%",
                 "onSale": true,
-                "itemTitle": "Fast Carbs",
-                "itemSubtitle": "your energy dose",
+                "itemTitle": "Панель коричневая",
+                "itemSubtitle": "очень качественная",
                 "itemPrice": "45.50 RUB",
-                "itemDescription": "There are contraindications.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34567F5p</b>",
-                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45.50&amp;item_name=%D0%9A%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81!&amp;currency_code=RUB\" class=\"btn btn-primary\">Купить сейчас!</a>"
+                "itemDescription": "<p>Характеристики панели:.<br><br><ul><li>Теплая</li> <li>Ровная</li> <li>Коричневая</li> <li>Супер тонкая</li><li>Ваще как теплая</li></ul> <br>Описание коричневой панели, какая она хорошая и все ее другие качества написать надо здесь!</p><p><br> Код подукта&nbsp;<b>34567F5p</b></p>",
+                "button": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=45.50&amp;item_name=%D0%92+%D0%BA%D0%BE%D1%80%D0%B7%D0%B8%D0%BD%D1%83!&amp;currency_code=RUB\" class=\"btn btn-primary\">В корзину!</a>"
               }
             ],
             "bgColor": "#fff",
@@ -1274,17 +1274,17 @@
             "filter": true
           },
           "_anchor": "extShop1-x",
-          "title": "Shop",
-          "filter_by_d": "<a class=\"btn btn-primary\">Default sorting</a>",
-          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Price: low to high</a>",
-          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Price: high to low</a>",
+          "title": "Магазин",
+          "filter_by_d": "<a class=\"btn btn-primary\">Сортировка: по умолчанию</a>",
+          "filter_by_pu": "<a class=\"btn btn-primary disableSortButton\">Сортировка: по возрастанию цены</a>",
+          "filter_by_pd": "<a class=\"btn btn-primary disableSortButton\">Сортировка: по уменьшению цены</a>",
           "articleLayout": false,
           "sidebar1": "Лидеры продаж",
           "sidebar2": "Filter by price",
           "price_range": "<a class=\"btn btn-primary filterPriceRange\">Filter</a>",
           "price_range_reset": "<a class=\"btn btn-secondary\">Show all</a>",
-          "sidebar3": "Product Categories",
-          "allItem": "All"
+          "sidebar3": "Катигории подуктов",
+          "allItem": "Все"
         },
         {
           "_inherit": "testimonials1",
