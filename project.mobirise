@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "3.12",
     "favicon": "",
     "noImageResize": "true",
@@ -1370,63 +1370,61 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
-          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "extHeader10",
-          "_anchor": "extHeader10-11",
+          "_name": "form1",
+          "_anchor": "form1-12",
           "_params": {
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader10.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0,
-            "overlayColor": "#000",
-            "inverse": false,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true
+            "showSubTitle": true
           },
+          "title": "НАПИШИТЕ НАМ",
+          "subtitle": "Оставьте сообщение и мы с Вами свяжемся.",
           "form": {
-            "action": "casper392945@gmail.com",
+            "action": "termopanels55@mail.ru",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо за отправленное сообщение!"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Имя*"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Почта*"
               },
               "phone": {
                 "title": "Phone",
                 "visible": true,
-                "customTitle": "Phone*"
+                "customTitle": "Телефон"
               },
               "message": {
                 "title": "Message",
-                "visible": true,
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
-          "title": "INTRO WITH FORM",
-          "text": "Full screen intro with background image and color overlay and a form on the right side. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_tags": [
