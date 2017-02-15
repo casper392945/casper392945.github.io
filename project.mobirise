@@ -358,7 +358,7 @@
             "ShowTexts": true,
             "showIcons": false
           },
-          "title": "MOBIRISE FEATURES",
+          "title": "ОСОБЕННОСТИ ПАНЕЛЕЙ",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
@@ -734,7 +734,7 @@
             "ShowTexts": true,
             "showIcons": false
           },
-          "title": "MOBIRISE FEATURES",
+          "title": "ОСОБЕННОСТИ ПАНЕЛЕЙ",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
@@ -1145,7 +1145,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "tags": "Wonderful",
+                "tags": "Прекрасная",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/1038542099-800x800.png",
                 "image": "@PROJECT_PATH@/assets/images/1038542099.png",
@@ -1156,12 +1156,12 @@
                 "itemPrice": "$25.50",
                 "itemDescription": "There are contraindications.<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>34567F5p</b>",
                 "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>",
-                "active": false
+                "active": true
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "tags": "Creative",
+                "tags": "Желтая",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/1085783671-800x1066.png",
                 "image": "@PROJECT_PATH@/assets/images/1085783671.png",
@@ -1176,7 +1176,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "tags": "Creative",
+                "tags": "Креативная",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160708-wa0007-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20160708-wa0007.jpg",
@@ -1191,7 +1191,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "tags": "Creative",
+                "tags": "Креативная",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160708-wa0010-800x726.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20160708-wa0010.jpg",
@@ -1206,7 +1206,7 @@
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
-                "tags": "Wonderful",
+                "tags": "Прекрасная",
                 "bestSeller": false,
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160708-wa0012-800x715.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20160708-wa0012.jpg",
@@ -1216,13 +1216,13 @@
                 "itemPrice": "$9.00",
                 "itemDescription": "Casual shoes (contact us for sizing)<br><br><ul><li>Lightweight textured fabric</li> <li>Rounded v-neckline</li> <li>Pom pom trims</li> <li>Regular fit – true to size</li></ul> <br>Duis auctor hendrerit nisi, at lacinia ex vulputate quis. Suspendisse convallis iaculis tortor, quis mattis lectus rutrum a.<br><br> Product code: <b>385DDF5p</b>",
                 "button": "<a data-app-btn=\"true\" href=\"https://mobirise.com/\" class=\"btn btn-primary\">Buy now!</a>",
-                "active": true
+                "active": false
               },
               {
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
                 "active": false,
-                "tags": "Awesome",
+                "tags": "Бордовая",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/9-burgund-glatt-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/9-burgund-glatt.png",
@@ -1238,7 +1238,7 @@
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
                 "active": false,
-                "tags": "Wonderful",
+                "tags": "Желтая",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/10-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/10.-gobi-rustik.png",
@@ -1254,7 +1254,7 @@
                 "itemPriceTitle": "From: ",
                 "caption": "Type caption here",
                 "active": false,
-                "tags": "Wonderful",
+                "tags": "Коричневая",
                 "bestSeller": true,
                 "thumb": "@PROJECT_PATH@/assets/images/18-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/18.semir-beige-struktur.png",
