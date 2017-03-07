@@ -84,11 +84,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/-1-1400x684.jpg",
+              "link": "https://casper392945.github.io/termopanels55/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -97,9 +97,19 @@
               "loop": false
             }
           },
-          "title": "Download for Windows",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "title": "Термопанели \"Аляска\"",
+          "text": "Термопанели Аляска изготовляются в Заводских условиях, на сложной технологической лини, оснащенной компьютерным управлением, исключая участие человеческого фактора на ответственных участках, от которых зависит качество продукции. Это позволяет нам нести ответственность за свой продукт и возможность предоставить 50-летнюю гарантию на термопанели. Гарантируется высокое качество стыковки панелей, идеальная геометрическая форма, четкое соблюдение вертикальной и горизонтальной рядности клинкера.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H3": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -137,7 +147,13 @@
           },
           "title": "Download for Windows",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -175,7 +191,13 @@
           },
           "title": "Download for Windows",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_tags": [

@@ -1,5 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+
+
+
+
 
 
 
@@ -522,6 +528,18 @@ a:hover {
 #content3-0 .mbr-section-title,
 #content3-0 .mbr-section-subtitle {
   text-align: center;
+}
+#content8-1 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#content8-1 H3 {
+  font-family: 'Droid Sans', sans-serif;
+}
+#content8-2 P {
+  font-family: 'Open Sans', sans-serif;
+}
+#content8-3 P {
+  font-family: 'Open Sans', sans-serif;
 }
 #footer4-5 p {
   color: #000;
