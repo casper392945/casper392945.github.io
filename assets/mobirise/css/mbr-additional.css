@@ -1,9 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-
-
-
 
 
 
@@ -411,6 +407,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #000;
 }
+.scrollToTop_wraper {
+  opacity: 0 !important;
+}
 /* DirectM */
 a {
   color: #74a3c7;
@@ -543,16 +542,6 @@ a:hover {
 }
 #content8-2 H3 {
   font-size: 30px;
-  font-family: 'Libre Franklin', serif;
-}
-#content8-3 P {
-  font-family: 'Open Sans', sans-serif;
-}
-#content8-3 H3 {
-  font-size: 30px;
-  font-family: 'Libre Franklin', serif;
-}
-#content8-3 SPAN {
   font-family: 'Libre Franklin', serif;
 }
 #footer4-5 p {

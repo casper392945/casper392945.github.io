@@ -17,7 +17,7 @@
         "textFont": "Libre Franklin",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       }
     },
     "versionFirst": "3.12.1",
@@ -60,14 +60,25 @@
             "bgColor": "#ffffff",
             "showMeta": true
           },
-          "title": "Title with Solid Background Color",
-          "meta": "By <b>John Smith</b> posted July 20, 2016"
+          "title": "Create awesome mobile-friendly websites! No coding and free.",
+          "meta": "<i>By <b>Igor Kapustin</b> posted March 7, 2017</i>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content8",
+          "_styles": {
+            "P": {
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "H3": {
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "font-size": "30px"
+            }
+          },
           "_anchor": "content8-1",
           "_params": {
             "imageSize": 16,
@@ -99,24 +110,24 @@
           },
           "title": "Drop-Dead easy website maker!",
           "text": "Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects. ",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "H3": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "font-size": "30px"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content8",
+          "_styles": {
+            "P": {
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "H3": {
+              "font-size": "30px",
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            }
+          },
           "_anchor": "content8-2",
           "_params": {
             "imageSize": 16,
@@ -148,71 +159,7 @@
           },
           "title": "Create awesome mobile-friendly websites!",
           "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.<br>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "H3": {
-              "font-size": "30px",
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-3",
-          "_params": {
-            "imageSize": 16,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x684.jpg",
-              "link": "https://casper392945.jimdo.com/",
-              "alt": "Авторский проект",
-              "title": "Авторский проект",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Choose a template. Upload pictures. Edit text. Done!",
-          "text": "<span style=\"font-size: 1rem; line-height: 1.7em;\">Create your dream website in just a few clicks with Jimdo's website builder. You can edit the website at any time and optimize it for search engines without needing to know how to code.</span><br>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "H3": {
-              "font-size": "30px",
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "SPAN": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_tags": [
