@@ -1,7 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
+
+
 
 
 
@@ -530,16 +532,28 @@ a:hover {
   text-align: center;
 }
 #content8-1 P {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Franklin', serif;
 }
 #content8-1 H3 {
-  font-family: 'Droid Sans', sans-serif;
+  font-family: 'Libre Franklin', serif;
+  font-size: 30px;
 }
 #content8-2 P {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Franklin', serif;
+}
+#content8-2 H3 {
+  font-size: 30px;
+  font-family: 'Libre Franklin', serif;
 }
 #content8-3 P {
   font-family: 'Open Sans', sans-serif;
+}
+#content8-3 H3 {
+  font-size: 30px;
+  font-family: 'Libre Franklin', serif;
+}
+#content8-3 SPAN {
+  font-family: 'Libre Franklin', serif;
 }
 #footer4-5 p {
   color: #000;

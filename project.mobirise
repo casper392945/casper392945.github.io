@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -71,8 +71,8 @@
           "_anchor": "content8-1",
           "_params": {
             "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "inverse": true,
@@ -86,8 +86,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/-1-1400x684.jpg",
               "link": "https://casper392945.github.io/termopanels55/",
-              "alt": "Термопанели \"АЛяСКА\"",
-              "title": "Термопанели \"АЛяСКА\"",
+              "alt": "Термопанели Аляска",
+              "title": "Термопанели Аляска",
               "linkInNewWindow": true
             },
             "video": {
@@ -97,17 +97,18 @@
               "loop": false
             }
           },
-          "title": "Термопанели \"Аляска\"",
-          "text": "Термопанели Аляска изготовляются в Заводских условиях, на сложной технологической лини, оснащенной компьютерным управлением, исключая участие человеческого фактора на ответственных участках, от которых зависит качество продукции. Это позволяет нам нести ответственность за свой продукт и возможность предоставить 50-летнюю гарантию на термопанели. Гарантируется высокое качество стыковки панелей, идеальная геометрическая форма, четкое соблюдение вертикальной и горизонтальной рядности клинкера.",
+          "title": "Drop-Dead easy website maker!",
+          "text": "Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects. ",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_styles": {
             "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             },
             "H3": {
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
+              "font-size": "30px"
             }
           }
         },
@@ -119,8 +120,8 @@
           "_anchor": "content8-2",
           "_params": {
             "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "inverse": true,
@@ -132,11 +133,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@PROJECT_PATH@/assets/images/https-casper392945-1400x684.jpg",
+              "link": "https://casper392945.github.io/portfolio/",
+              "alt": "Руководитель среднего звена",
+              "title": "Руководитель среднего звена",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -145,13 +146,18 @@
               "loop": false
             }
           },
-          "title": "Download for Windows",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
+          "title": "Create awesome mobile-friendly websites!",
+          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.<br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_styles": {
             "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "H3": {
+              "font-size": "30px",
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             }
           }
         },
@@ -163,8 +169,8 @@
           "_anchor": "content8-3",
           "_params": {
             "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "inverse": true,
@@ -176,11 +182,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@PROJECT_PATH@/assets/images/-1400x684.jpg",
+              "link": "https://casper392945.jimdo.com/",
+              "alt": "Авторский проект",
+              "title": "Авторский проект",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -189,13 +195,22 @@
               "loop": false
             }
           },
-          "title": "Download for Windows",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
+          "title": "Choose a template. Upload pictures. Edit text. Done!",
+          "text": "<span style=\"font-size: 1rem; line-height: 1.7em;\">Create your dream website in just a few clicks with Jimdo's website builder. You can edit the website at any time and optimize it for search engines without needing to know how to code.</span><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_styles": {
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "H3": {
+              "font-size": "30px",
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
+            },
+            "SPAN": {
+              "font-family": "'Libre Franklin', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
             }
           }
         },
@@ -206,8 +221,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-7",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
