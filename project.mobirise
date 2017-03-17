@@ -61,7 +61,7 @@
             "showMeta": true
           },
           "title": "Create awesome mobile-friendly websites! No coding and free.",
-          "meta": "<i>By <b>Igor Kapustin</b> posted March 7, 2017</i>"
+          "meta": "<i>By <b>Igor Kapustin</b>&nbsp;at March 17, 2017</i>"
         },
         {
           "_tags": [
@@ -75,8 +75,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff",
             "bgColorRadio": true,
-            "inverse": false,
-            "showTitle": false,
+            "inverse": true,
+            "showTitle": true,
             "showText": true,
             "showButtons": true
           },
@@ -97,9 +97,17 @@
               "loop": false
             }
           },
-          "title": "Download for Windows",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "title": "No coding!",
+          "text": "The web nowadays is the part of our reality, and that's why it's important to have simple tools to create awesome-looking sites that look good on all devices. Mobirise is a website builder  - you can simply place site elements to your project, place your content and edit them to look the way you like.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -113,8 +121,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff",
             "bgColorRadio": true,
-            "inverse": false,
-            "showTitle": false,
+            "inverse": true,
+            "showTitle": true,
             "showText": true,
             "showButtons": true
           },
@@ -135,9 +143,17 @@
               "loop": false
             }
           },
-          "title": "Download for Windows",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "title": "Find many ways to make your site unique",
+          "text": "Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible. You can combine blocks in different ways on your pages.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -151,8 +167,8 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff",
             "bgColorRadio": true,
-            "inverse": false,
-            "showTitle": false,
+            "inverse": true,
+            "showTitle": true,
             "showText": true,
             "showButtons": true
           },
@@ -173,9 +189,17 @@
               "loop": false
             }
           },
-          "title": "Download for Windows",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+          "title": "It's mobile-friendly!",
+          "text": "No special actions required, all sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automatically.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_tags": [
@@ -213,7 +237,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         }
       ]
     }
