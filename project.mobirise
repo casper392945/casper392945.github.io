@@ -21,9 +21,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 20,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/android-chrome-192x192-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -68,26 +68,15 @@
             "Theme"
           ],
           "_name": "content8",
-          "_styles": {
-            "P": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "H3": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "content8-1",
+          "_anchor": "content8-h",
           "_params": {
             "imageSize": 16,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
+            "inverse": false,
+            "showTitle": false,
             "showText": true,
             "showButtons": true
           },
@@ -95,10 +84,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1-1400x684.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-.jpg",
               "link": "https://casper392945.github.io/termopanels55/",
-              "alt": "Термопанели Аляска",
-              "title": "Термопанели Аляска",
+              "alt": "Теромопанели Аляска",
+              "title": "Теромопанели Аляска",
               "linkInNewWindow": true
             },
             "video": {
@@ -108,8 +97,8 @@
               "loop": false
             }
           },
-          "title": "Drop-Dead easy website maker!",
-          "text": "Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects. ",
+          "title": "Download for Windows",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
@@ -117,26 +106,15 @@
             "Theme"
           ],
           "_name": "content8",
-          "_styles": {
-            "P": {
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            },
-            "H3": {
-              "font-size": "30px",
-              "font-family": "'Libre Franklin', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Libre+Franklin:400,400i,600,600i"
-            }
-          },
-          "_anchor": "content8-2",
+          "_anchor": "content8-i",
           "_params": {
             "imageSize": 16,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#ffffff",
             "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
+            "inverse": false,
+            "showTitle": false,
             "showText": true,
             "showButtons": true
           },
@@ -144,10 +122,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/https-casper392945-1400x684.jpg",
+              "src": "@PROJECT_PATH@/assets/images/portfolio-.jpg",
               "link": "https://casper392945.github.io/portfolio/",
-              "alt": "Руководитель среднего звена",
-              "title": "Руководитель среднего звена",
+              "alt": "Руководитель Среднего Звена",
+              "title": "Руководитель Среднего Звена",
               "linkInNewWindow": true
             },
             "video": {
@@ -157,8 +135,46 @@
               "loop": false
             }
           },
-          "title": "Create awesome mobile-friendly websites!",
-          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products.<br>",
+          "title": "Download for Windows",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-j",
+          "_params": {
+            "imageSize": 16,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "inverse": false,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/review-.jpg",
+              "link": "https://casper392945.github.io/review/",
+              "alt": "Мои Гаджеты",
+              "title": "Мои Гаджеты",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Download for Windows",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, provident laudantium quos, necessitatibus tempora nemo suscipit quia repudiandae saepe fugiat at pariatur iste natus officia animi qui cumque? Optio, expedita. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi nam, illo recusandae vitae obcaecati reprehenderit ad officiis odio necessitatibus? Velit nemo animi magnam voluptatum reprehenderit quo perspiciatis debitis cumque nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui aperiam, asperiores hic? Quo ullam placeat ut, aspernatur quos veritatis ipsam. Dicta labore aut eos, animi reprehenderit dolore nihil mollitia minus.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
