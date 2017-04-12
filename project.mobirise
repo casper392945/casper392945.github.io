@@ -30,7 +30,7 @@
     "html_before": "",
     "headbody": "",
     "botbody": "",
-    "back-to-top": "on",
+    "back-to-top": "off",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -140,10 +140,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/portfolio-.jpg",
-              "link": "https://casper392945.github.io/portfolio/",
-              "alt": "Руководитель Среднего Звена",
-              "title": "Руководитель Среднего Звена",
+              "src": "@PROJECT_PATH@/assets/images/web-design-1400x684.jpg",
+              "link": "https://casper392945.github.io/mix",
+              "alt": "Portfolio",
+              "title": "Portfolio",
               "linkInNewWindow": true
             },
             "video": {
@@ -187,7 +187,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/review-.jpg",
-              "link": "https://casper392945.github.io/review/",
+              "link": "https://casper392945.github.io/mix/My%20Gadgets/index.html",
               "alt": "Мои Гаджеты",
               "title": "Мои Гаджеты",
               "linkInNewWindow": true
@@ -208,6 +208,14 @@
             "Theme"
           ],
           "_name": "content8",
+          "_styles": {
+            "H3": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "content8-k",
           "_params": {
             "imageSize": 16,
@@ -225,7 +233,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/1363858098-schastlivye-oboi-1400x875.jpg",
-              "link": "https://casper392945.github.io/howto/",
+              "link": "https://casper392945.github.io/mix/HowTo/index.html",
               "alt": "How To",
               "title": "How To",
               "linkInNewWindow": true
@@ -239,15 +247,7 @@
           },
           "title": "Drag blocks to page",
           "text": "Start with creating a new site and picking up the theme. Then expand the blocks panel with the big red \"plus\" button in the lower right corner and start dragging the blocks you like.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          }
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "_tags": [
