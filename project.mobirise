@@ -1,44 +1,42 @@
 {
   "settings": {
-    "name": "NewSite-03-03_1523 DirectM (News)",
+    "name": "2017-10-03_0012-ColorM_News",
     "currentPage": "index.html",
     "theme": {
-      "name": "directm",
-      "title": "DirectM",
+      "name": "colorm",
+      "title": "ColorM",
       "styling": {
-        "primaryColor": "#5aac98",
-        "secondaryColor": "#A25DAE",
-        "successColor": "#1E7C3A",
-        "infoColor": "#74a3c7",
-        "warningColor": "#FFD785",
-        "dangerColor": "#FF9685",
-        "titleFont": "Oxygen",
-        "subtitleFont": "Libre Franklin",
-        "textFont": "Libre Franklin",
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": [
+        "#222222"
+      ]
     },
-    "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
-    "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/graphicloads-colorful-long-shadow-star-fav-128x128.png",
+    "versionFirst": "4.3.2",
+    "uniqCompNum": 13,
+    "versionPublish": "4.3.4",
+    "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "html_before": "",
-    "headbody": "",
-    "botbody": "",
-    "back-to-top": "off",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -51,241 +49,168 @@
               "text-align": "center"
             }
           },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ecf0f1"
+          },
+          "title": "Create awesome mobile-friendly websites! No coding and free",
+          "meta": "By Igor Kapustin at October 20, 2017",
           "_tags": [
             "Theme"
           ],
           "_name": "content3",
-          "_anchor": "content3-0",
+          "_anchor": "content3-0"
+        },
+        {
+          "_styles": {},
           "_params": {
+            "showImages": true,
+            "showTitle": true,
+            "showText": true,
+            "showDate": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "news": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/design-portfolio-wide-2000x480.jpg",
+                "title": "Portfolio...",
+                "text": "Minor corrections of the content have been made. It is planned to redesign. Link to the site <a href=\"https://casper392945.github.io/portfolio/\" target=\"_blank\">here</a>",
+                "date": "27 SEPTEMBER 2017",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1-2000x1328-wide-1950x490.jpg",
+                "title": "WEB Design...",
+                "text": "WEBSITE DEVELOPMENT\nusing MOBIRISE. Mobirise is an offline application for Windows and Mac, with which you can create small websites, landings, online resumes and portfolios, promo sites for applications, events, products and services.&nbsp;Link to the site <a href=\"https://casper392945.github.io/mix/\" target=\"_blank\">here</a>",
+                "date": "29 SEPTEMBER 2017",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2017-10-20-my-gadgets1-1263x324.png",
+                "title": "My Gadgets...",
+                "text": "The description of the features of my favorite gadgets. Link to the site <a href=\"https://casper392945.github.io/review/\" target=\"_blank\">here</a>",
+                "date": "31 MARCH 2017",
+                "active": false
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "news1",
+          "_anchor": "news1-c"
+        },
+        {
+          "_styles": {
+            ".form-control-label": {}
+          },
+          "_params": {
+            "showCat1": true,
+            "showCat2": true,
+            "showCat3": true,
+            "showText": false,
+            "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
           },
-          "title": "Create awesome mobile-friendly websites! No coding and free.",
-          "meta": "<i>By <b>Igor Kapustin</b>&nbsp;at March 31, 2017</i>"
-        },
-        {
+          "title1": "Omsk, Russia",
+          "title2": "<a href=\"tel:+7-913-609-4079\">+7 913-609-4079</a>",
+          "title3": "<a href=\"mailto:casper392945@gmail.com\">casper392945@gmail.com</a>",
+          "cat1": "address",
+          "cat2": "phone",
+          "cat3": "email",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos sunt, dolorum similique facere, vitae ea quod, velit est, maiores cupiditate repudiandae! Laboriosam, aliquid ea a magnam sunt eum corrupti totam rem alias dolor ipsum dignissimos.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-google-plus mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
+          "form": {
+            "action": "casper392945@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
+          "_name": "contacts3",
+          "_anchor": "contacts3-4"
+        },
+        {
           "_styles": {
-            "H3": {
-              "font-size": "36px"
+            ".mbr-section-text": {
+              "color": "#fff"
             },
             "P": {
-              "font-size": "18px"
+              "color": "#222222"
             }
           },
-          "_anchor": "content8-h",
-          "_params": {
-            "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-.jpg",
-              "link": "https://casper392945.github.io/termopanels55/",
-              "alt": "Теромопанели Аляска",
-              "title": "Теромопанели Аляска",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "No coding!",
-          "text": "The web nowadays is the part of our reality, and that's why it's important to have simple tools to create awesome-looking sites that look good on all devices. Mobirise is a website builder  - you can simply place site elements to your project, place your content and edit them to look the way you like.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content8-i",
-          "_params": {
-            "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/web-design-1400x684.jpg",
-              "link": "https://casper392945.github.io/mix",
-              "alt": "Portfolio",
-              "title": "Portfolio",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Find many ways to make your site unique",
-          "text": "Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible. You can combine blocks in different ways on your pages.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content8-j",
-          "_params": {
-            "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/review-.jpg",
-              "link": "https://casper392945.github.io/mix/My%20Gadgets/index.html",
-              "alt": "Мои Гаджеты",
-              "title": "Мои Гаджеты",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "It's mobile-friendly!",
-          "text": "No special actions required, all sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automatically.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_styles": {
-            "H3": {
-              "font-size": "36px"
-            },
-            "P": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "content8-k",
-          "_params": {
-            "imageSize": 16,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1363858098-schastlivye-oboi-1400x875.jpg",
-              "link": "https://casper392945.github.io/mix/HowTo/index.html",
-              "alt": "How To",
-              "title": "How To",
-              "linkInNewWindow": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "Drag blocks to page",
-          "text": "Start with creating a new site and picking up the theme. Then expand the blocks panel with the big red \"plus\" button in the lower right corner and start dragging the blocks you like.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-7",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
-        },
-        {
-          "_styles": {
-            "p": {
-              "color": "#000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer4",
-          "_anchor": "footer4-5",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#fff",
             "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Mobirise."
+          "text": "Copyright (c) 2017 Igor Kapustin",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-7"
         }
       ]
     }
