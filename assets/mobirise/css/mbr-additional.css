@@ -514,9 +514,6 @@ textarea,
 .mbr-gallery-filter li:hover {
   color: #f39c12;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
@@ -719,6 +716,73 @@ blockquote {
   font-family: 'Montserrat', sans-serif;
 }
 /*end colorM*/
+#menu-h .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-h .navbar-caption {
+  color: #ffffff;
+}
+#menu-h .navbar-toggler {
+  color: #ffffff;
+}
+#menu-h .close-icon::before,
+#menu-h .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-h .link,
+#menu-h .dropdown-item {
+  color: #ffffff;
+}
+#menu-h .link {
+  font-size: 0.875rem;
+}
+#menu-h .dropdown-item,
+#menu-h .nav-dropdown-sm .link {
+  font-size: 0.948rem;
+}
+#menu-h .link:hover,
+#menu-h .link:focus {
+  color: #f39c12;
+}
+#menu-h .dropdown-item:hover::before,
+#menu-h .dropdown-item:focus::before {
+  background: #f39c12;
+}
+#menu-h .dropdown-item:hover,
+#menu-h .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-h .link[aria-expanded="true"],
+#menu-h .dropdown-menu {
+  background: #1a242f;
+}
+#menu-h .nav-dropdown-sm .link:focus,
+#menu-h .nav-dropdown-sm .link:hover,
+#menu-h .nav-dropdown-sm .dropdown-item:focus,
+#menu-h .nav-dropdown-sm .dropdown-item:hover {
+  background: #273646!important;
+}
+#menu-h .navbar,
+#menu-h .nav-dropdown-sm,
+#menu-h .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-h .nav-dropdown-sm .dropdown-menu {
+  background: #2c3e50;
+}
+#menu-h .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-h .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-h .bg-color.transparent.opened .link:hover,
+#menu-h .bg-color.transparent.opened .link:focus {
+  color: #f39c12;
+}
+#menu-h .link[aria-expanded="true"],
+#menu-h .dropdown-item[aria-expanded="true"] {
+  color: #f39c12!important;
+}
 #content3-0 .mbr-section-title,
 #content3-0 .mbr-section-subtitle {
   text-align: center;
@@ -746,9 +810,18 @@ blockquote {
 #contacts3-4 .form-control-label {
   color: undefined;
 }
+#contacts3-4 .mbr-section-title {
+  color: #f1c40f;
+}
+#contacts3-4 .mbr-section-subtitle {
+  color: #ffffff;
+}
+#contacts3-4 .mbr-section-text {
+  color: #ffffff;
+}
 #footer2-7 .mbr-section-text {
   color: #fff;
 }
 #footer2-7 P {
-  color: #222222;
+  color: #ffffff;
 }
