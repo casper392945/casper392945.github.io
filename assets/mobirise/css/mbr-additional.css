@@ -4,6 +4,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -721,6 +722,26 @@ blockquote {
 #content3-0 .mbr-section-title,
 #content3-0 .mbr-section-subtitle {
   text-align: center;
+}
+#features1-d .mbr-section-title {
+  font-weight: 700;
+  font-family: 'Arvo', serif;
+}
+#features1-d .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+}
+#features1-d .mbr-section-text {
+  text-align: center;
+}
+#features1-f .mbr-section-title {
+  font-weight: 700;
+}
+#features1-f .mbr-section-subtitle {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
 }
 #contacts3-4 .form-control-label {
   color: undefined;
