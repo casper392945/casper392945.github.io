@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -818,6 +819,8 @@ blockquote {
 }
 #contacts3-4 .mbr-section-text {
   color: #ffffff;
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
 }
 #footer2-7 .mbr-section-text {
   color: #fff;
