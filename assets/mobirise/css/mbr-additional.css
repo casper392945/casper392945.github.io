@@ -808,6 +808,16 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
+#social-buttons1-j .btn-social {
+  color: #fff;
+  height: 60px;
+  width: 60px;
+  line-height: 60px;
+  font-size: 2rem;
+}
+#social-buttons1-j .mbr-section-title {
+  color: #fff;
+}
 #contacts3-4 .form-control-label {
   color: undefined;
 }
