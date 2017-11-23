@@ -62,7 +62,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
                 "contentAlign": "center",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -92,7 +92,7 @@
               {
                 "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
                 "contentAlign": "right",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -164,7 +164,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": 1,
             "bgColor": "#ecf0f1"
           },
@@ -252,7 +252,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/20171106-181004-pano-2000x556.jpg",
                 "title": "Instagram",
-                "text": "My instagram feed page.. Link to the site <a href=\"https://casper392945.github.io/review/\" target=\"_blank\">here</a>",
+                "text": "My instagram feed page.. Link to the site <a href=\"https://casper392945.github.io/mix/instagram/\" target=\"_blank\">here</a>",
                 "date": "23 NOVEMBER &nbsp;2017",
                 "active": false,
                 "wide": false
@@ -283,7 +283,7 @@
             "showTitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": true,
@@ -506,7 +506,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-d\">KWORKS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-0\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-j\" aria-expanded=\"false\">SHARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\">KWORKS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-0\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-j\" aria-expanded=\"false\">SHARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -555,8 +555,8 @@
             "showTitles": true,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "columns": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
