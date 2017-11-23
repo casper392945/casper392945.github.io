@@ -1,5 +1,134 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://casper392945.github.io/index.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://casper392945.github.io/</loc>
+  <lastmod>2017-11-23T07:41:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/index.html</loc>
+  <lastmod>2017-11-23T07:41:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/2017-10-22_2008-Mobirise4_ResumeTemplate/</loc>
+  <lastmod>2017-11-23T06:39:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/portfolio/</loc>
+  <lastmod>2017-11-10T06:32:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/new-mix/</loc>
+  <lastmod>2017-11-10T07:41:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/review/</loc>
+  <lastmod>2017-11-10T06:36:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/RailLogist/</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/instagram/</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/bluesea/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/HowTo/index.html</loc>
+  <lastmod>2017-11-23T06:39:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/NewBuildings/index.html</loc>
+  <lastmod>2017-11-23T06:39:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceMNews/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/MyGadgets/index.html</loc>
+  <lastmod>2017-11-23T06:39:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/resume/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/CountDown/index.html</loc>
+  <lastmod>2017-11-23T06:39:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/CountDown-1/index.html</loc>
+  <lastmod>2017-11-23T06:39:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/glips/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceM-1/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SmartMockups/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/new-mix/index.html</loc>
+  <lastmod>2017-11-10T07:41:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/%D0%91%D0%B0%D0%B9%D0%BA%D0%B0%D0%BB/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/review/index.html</loc>
+  <lastmod>2017-11-10T06:36:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/RailLogist/index.html</loc>
+  <lastmod>2017-11-23T06:39:33+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>
