@@ -57,7 +57,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#fff",
-            "timeout": 5,
+            "timeout": "8",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
@@ -92,7 +92,7 @@
               {
                 "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
                 "contentAlign": "right",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -121,7 +121,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
                 "contentAlign": "left",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -129,7 +129,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
                 "title": "СОВРЕМЕННЫЕ БЛОКИ ДЛЯ САЙТА",
                 "overlay": true,
-                "text": "Выбирайте любой их множества новейших разработанных блоков – полномасштабные заставки, Bootstrap-карусель, контент-слайдер, фотогалерея с лайтбоксом, параллакс-скроллинг, фоновое видео, мобильное меню, закрепленный заголовок и многие другие. ",
+                "text": "Bootstrap-карусель, контент-слайдер, фотогалерея с лайтбоксом, параллакс-скроллинг, фоновое видео, мобильное меню, закрепленный заголовок и многие другие. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
@@ -152,7 +152,8 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "46px"
             }
           }
         },
@@ -499,7 +500,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.875,
             "fontName": {},
