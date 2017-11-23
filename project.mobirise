@@ -32,9 +32,9 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-97316872-3\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-97316872-3');\r\n</script>\r\n",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nAllow: /\nSitemap: https://casper392945.github.io/sitemap.xml\n\n",
-    "robotsSwitcher": "on",
-    "siteUrl": "https://casper392945.github.io/",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
@@ -203,18 +203,26 @@
             "overlayOpacity": 0.9,
             "news": [
               {
-                "image": "@PROJECT_PATH@/assets/images/shutterstock-140221888-2000x400-2000x400.jpg",
-                "title": "Resume template",
-                "text": "Resume template for Mobirise4. Link to the site <a href=\"https://casper392945.github.io/mix/2017-10-22_2008-Mobirise4_ResumeTemplate/\" target=\"_blank\">here</a>",
-                "date": "25 OCTOBER 2017",
+                "image": "@PROJECT_PATH@/assets/images/20171106-181004-pano-2000x556.jpg",
+                "title": "Instagram",
+                "text": "My instagram feed page.. Link to the site <a href=\"https://casper392945.github.io/mix/instagram/\" target=\"_blank\">here</a>",
+                "date": "23 NOVEMBER &nbsp;2017",
                 "active": false,
                 "wide": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/design-portfolio-wide-2000x480.jpg",
-                "title": "Portfolio...",
-                "text": "Minor corrections of the content have been made. It is planned to redesign. Link to the site <a href=\"https://casper392945.github.io/portfolio/\" target=\"_blank\">here</a>",
-                "date": "27 SEPTEMBER 2017",
+                "image": "@PROJECT_PATH@/assets/images/schiene-header-1320x370.jpg",
+                "title": "Rail Logistics",
+                "text": "Rail Logistics Company template . Link to the site <a href=\"https://casper392945.github.io/mix/RailLogist/\" target=\"_blank\">here</a>",
+                "date": "08 NOVEMBER H 2017",
+                "active": true,
+                "wide": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/shutterstock-140221888-2000x400-2000x400.jpg",
+                "title": "Resume template",
+                "text": "Resume template for Mobirise4. Link to the site <a href=\"https://casper392945.github.io/mix/2017-10-22_2008-Mobirise4_ResumeTemplate/\" target=\"_blank\">here</a>",
+                "date": "25 OCTOBER 2017",
                 "active": false,
                 "wide": false
               },
@@ -224,6 +232,14 @@
                 "text": "WEBSITE DEVELOPMENT\nusing MOBIRISE. Mobirise is an offline application for Windows and Mac, with which you can create small websites, landings, online resumes and portfolios, promo sites for applications, events, products and services.&nbsp;Link to the site <a href=\"https://casper392945.github.io/mix/\" target=\"_blank\">here</a>",
                 "date": "29 SEPTEMBER 2017",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/design-portfolio-wide-2000x480.jpg",
+                "title": "Portfolio...",
+                "text": "Minor corrections of the content have been made. It is planned to redesign. Link to the site <a href=\"https://casper392945.github.io/portfolio/\" target=\"_blank\">here</a>",
+                "date": "27 SEPTEMBER 2017",
+                "active": false,
+                "wide": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/288c038a04e85bfde8a11677ff7c0e14-2000x400.jpg",
@@ -238,22 +254,6 @@
                 "title": "My Gadgets...",
                 "text": "The description of the features of my favorite gadgets. Link to the site <a href=\"https://casper392945.github.io/review/\" target=\"_blank\">here</a>",
                 "date": "31 MARCH 2017",
-                "active": false,
-                "wide": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/schiene-header-1320x370.jpg",
-                "title": "Rail Logistics",
-                "text": "Rail Logistics Company template . Link to the site <a href=\"https://casper392945.github.io/mix/RailLogist/\" target=\"_blank\">here</a>",
-                "date": "08 NOVEMBER H 2017",
-                "active": true,
-                "wide": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/20171106-181004-pano-2000x556.jpg",
-                "title": "Instagram",
-                "text": "My instagram feed page.. Link to the site <a href=\"https://casper392945.github.io/mix/instagram/\" target=\"_blank\">here</a>",
-                "date": "23 NOVEMBER &nbsp;2017",
                 "active": false,
                 "wide": false
               }
@@ -506,7 +506,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\">KWORKS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-0\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-j\" aria-expanded=\"false\">SHARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-0\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-f\" aria-expanded=\"false\">KWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-j\" aria-expanded=\"false\">SHARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -691,7 +691,7 @@
           "title": "My KWorks",
           "title1": "Bootstrap 4",
           "subtitle1": "Набор текста<br><br>",
-          "caption1": "Набор текста из сканированных страниц (печатный контрастный текст формата А4, <br>без картинок, таблиц, схем и формул, <br>набранный любым шрифтом не меньше 10px).\n<br>\n<br>Результат сохраню в любом из перечисленных форматов: doc, docx, odt или pdf.&nbsp;",
+          "caption1": "Набор текста из сканированных страниц (печатный контрастный текст формата А4, <br>без картинок, таблиц, схем и формул, ).\n<br>\n<br>Результат сохраню в любом из перечисленных форматов: doc, docx, odt или pdf.&nbsp;",
           "buttons1": "<a data-app-btn=\"true\" href=\"https://kwork.ru/z/q51k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАКАЗАТЬ</a>",
           "title2": "Responsive",
           "subtitle2": "Протестирую адаптивный дизайн сайта",
