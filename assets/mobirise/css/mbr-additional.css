@@ -726,6 +726,13 @@ blockquote {
 #slider-k .mbr-section-title {
   text-align: center;
 }
+#content3-0 .mbr-section-title,
+#content3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#news1-c P {
+  color: #666666;
+}
 #features1-f .mbr-section-title {
   font-weight: 700;
 }
@@ -811,10 +818,6 @@ blockquote {
   color: #fff;
 }
 #features1-d .mbr-section-text {
-  text-align: center;
-}
-#content3-0 .mbr-section-title,
-#content3-0 .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons1-j .btn-social {

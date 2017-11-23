@@ -42,8 +42,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "My KWORKS and PORTFOLIO",
-        "meta_descr": "My KWORKS and PORTFOLIO",
+        "title": "Casper",
+        "meta_descr": "Casper Home Page",
         "header_custom": "\n",
         "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a096409198bd56b8c03ac94/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": ""
@@ -158,6 +158,116 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#ecf0f1"
+          },
+          "title": "MY PORTFOLIO",
+          "meta": "By Igor Kapustin at November 23, 2017",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-0"
+        },
+        {
+          "_styles": {
+            "P": {
+              "color": "#666666"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitle": true,
+            "showText": true,
+            "showDate": true,
+            "paddingTop": "2",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9,
+            "news": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/shutterstock-140221888-2000x400-2000x400.jpg",
+                "title": "Resume template",
+                "text": "Resume template for Mobirise4. Link to the site <a href=\"https://casper392945.github.io/mix/2017-10-22_2008-Mobirise4_ResumeTemplate/\" target=\"_blank\">here</a>",
+                "date": "25 OCTOBER 2017",
+                "active": false,
+                "wide": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/design-portfolio-wide-2000x480.jpg",
+                "title": "Portfolio...",
+                "text": "Minor corrections of the content have been made. It is planned to redesign. Link to the site <a href=\"https://casper392945.github.io/portfolio/\" target=\"_blank\">here</a>",
+                "date": "27 SEPTEMBER 2017",
+                "active": false,
+                "wide": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide1-2000x1328-wide-1950x490.jpg",
+                "title": "WEB Design...",
+                "text": "WEBSITE DEVELOPMENT\nusing MOBIRISE. Mobirise is an offline application for Windows and Mac, with which you can create small websites, landings, online resumes and portfolios, promo sites for applications, events, products and services.&nbsp;Link to the site <a href=\"https://casper392945.github.io/mix/\" target=\"_blank\">here</a>",
+                "date": "29 SEPTEMBER 2017",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/288c038a04e85bfde8a11677ff7c0e14-2000x400.jpg",
+                "title": "MAKING FRONT-END LANDING PAGE USING MOBIRISE...",
+                "text": "Create awesome mobile-friendly websites!\nNo coding and free.. . Link to the site <a href=\"https://casper392945.github.io/new-mix/\" target=\"_blank\">here</a>",
+                "date": "16 AUGUST 2017",
+                "active": false,
+                "wide": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cropped-top-christmas-gift-ideas-2008-header-2000x400.jpg",
+                "title": "My Gadgets...",
+                "text": "The description of the features of my favorite gadgets. Link to the site <a href=\"https://casper392945.github.io/review/\" target=\"_blank\">here</a>",
+                "date": "31 MARCH 2017",
+                "active": false,
+                "wide": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/schiene-header-1320x370.jpg",
+                "title": "Rail Logistics",
+                "text": "Rail Logistics Company template . Link to the site <a href=\"https://casper392945.github.io/mix/RailLogist/\" target=\"_blank\">here</a>",
+                "date": "08 NOVEMBER H 2017",
+                "active": true,
+                "wide": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/20171106-181004-pano-2000x556.jpg",
+                "title": "Instagram",
+                "text": "My instagram feed page.. Link to the site <a href=\"https://casper392945.github.io/review/\" target=\"_blank\">here</a>",
+                "date": "23 NOVEMBER &nbsp;2017",
+                "active": false,
+                "wide": false
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "news1",
+          "_anchor": "news1-c"
+        },
+        {
+          "_styles": {
             ".mbr-section-title": {
               "font-weight": "700"
             },
@@ -168,7 +278,7 @@
             }
           },
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showImages": true,
             "showTitles": true,
             "ShowTexts": true,
@@ -296,7 +406,7 @@
               "family": "et-line"
             }
           },
-          "title": "Features",
+          "title": "Kworks",
           "title1": "Bootstrap 4",
           "subtitle1": "Работа с файлами в формате PDF",
           "caption1": "Выполню следующие виды работ с файлами в формате pdf:\n<br>разделение на части или удаление ненужных страниц;\n<br>    объединение нескольких файлов в один;\n<br>    сжатие для уменьшения объема;\n<br>    экспортирование в word, excel, jpeg, png, html;\n<br>    импорт из word, excel, jpeg, png, ppt;\n<br>    поворот отдельных страниц или замена ориентации (альбомная/книжная)",
@@ -396,7 +506,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-d\">KWORKS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#news1-c\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-j\" aria-expanded=\"false\">SHARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-d\">KWORKS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content3-0\" aria-expanded=\"false\">PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons1-j\" aria-expanded=\"false\">SHARE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-4\" aria-expanded=\"false\">CONTACTS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "src": "@THEME_PATH@/components/_images/logo.png",
@@ -593,7 +703,7 @@
           "buttons3": "<a data-app-btn=\"true\" href=\"https://kwork.ru/z/q58z\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ЗАКАЗАТЬ</a>",
           "title4": "Unlimited Sites",
           "subtitle4": "Выполню адаптивную верстку Landing Page",
-          "caption4": "Сверстаю Landing Page с использованием конструктора Mobirise.\n<br><br><br>\n<br>Верстка адаптивна к мобильным устройствам.&nbsp;<br><br>",
+          "caption4": "Сверстаю Landing Page с использованием конструктора Mobirise.\n<br><br><br>\n<br>Верстка адаптивна к мобильным устройствам.&nbsp;<br>",
           "buttons4": "<a data-app-btn=\"true\" href=\"https://kwork.ru/z/q5af\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">заказать</a>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Работа с файлами в формате PDF",
@@ -609,96 +719,6 @@
           ],
           "_name": "features1",
           "_anchor": "features1-d"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#ecf0f1"
-          },
-          "title": "My KWORKS and PORTFOLIO",
-          "meta": "By Igor Kapustin at November 13, 2017",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-0"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showImages": true,
-            "showTitle": true,
-            "showText": true,
-            "showDate": true,
-            "paddingTop": "4",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/03.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.9,
-            "news": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/shutterstock-140221888-2000x400-2000x400.jpg",
-                "title": "Resume template",
-                "text": "Resume template for Mobirise4. Link to the site <a href=\"https://casper392945.github.io/mix/2017-10-22_2008-Mobirise4_ResumeTemplate/\" target=\"_blank\">here</a>",
-                "date": "25 OCTOBER 2017",
-                "active": true,
-                "wide": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/design-portfolio-wide-2000x480.jpg",
-                "title": "Portfolio...",
-                "text": "Minor corrections of the content have been made. It is planned to redesign. Link to the site <a href=\"https://casper392945.github.io/portfolio/\" target=\"_blank\">here</a>",
-                "date": "27 SEPTEMBER 2017",
-                "active": false,
-                "wide": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slide1-2000x1328-wide-1950x490.jpg",
-                "title": "WEB Design...",
-                "text": "WEBSITE DEVELOPMENT\nusing MOBIRISE. Mobirise is an offline application for Windows and Mac, with which you can create small websites, landings, online resumes and portfolios, promo sites for applications, events, products and services.&nbsp;Link to the site <a href=\"https://casper392945.github.io/mix/\" target=\"_blank\">here</a>",
-                "date": "29 SEPTEMBER 2017",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/288c038a04e85bfde8a11677ff7c0e14-2000x400.jpg",
-                "title": "MAKING FRONT-END LANDING PAGE USING MOBIRISE...",
-                "text": "Create awesome mobile-friendly websites!\nNo coding and free.. . Link to the site <a href=\"https://casper392945.github.io/new-mix/\" target=\"_blank\">here</a>",
-                "date": "16 AUGUST 2017",
-                "active": false,
-                "wide": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/cropped-top-christmas-gift-ideas-2008-header-2000x400.jpg",
-                "title": "My Gadgets...",
-                "text": "The description of the features of my favorite gadgets. Link to the site <a href=\"https://casper392945.github.io/review/\" target=\"_blank\">here</a>",
-                "date": "31 MARCH 2017",
-                "active": false,
-                "wide": true
-              }
-            ]
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "news1",
-          "_anchor": "news1-c"
         },
         {
           "_styles": {
@@ -781,7 +801,7 @@
           "cat2": "phone",
           "cat3": "email",
           "text": "VIBER<br><a href=\"viber://chat?number=79136094079\" target=\"_blank\">+7 913-<span style=\"font-style: normal;\">609</span>-4079</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-google-plus mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-twitter\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-pinterest\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\"><span class=\"socicon socicon-skype\"></span></a><a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"fa fa-google-plus mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
           "form": {
             "action": "casper392945@gmail.com",
