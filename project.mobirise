@@ -63,7 +63,7 @@
                 "image": "@PROJECT_PATH@/assets/images/slider01.jpg",
                 "contentAlign": "center",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -72,13 +72,13 @@
                 "overlay": true,
                 "overlayOpacity": "0.3",
                 "text": "Быстро создаем впечатляющие сайты. &nbsp;Разработка полностью отзывчивых мобильных веб-сайтов, которые выглядят удивительными на любых устройствах &nbsp;и браузерах.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://casper392945.github.io/new-mix/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>MOBIRISE 4 LIVE DEMO</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slider02.jpg",
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -87,13 +87,13 @@
                 "overlay": true,
                 "overlayOpacity": "0.2",
                 "text": "Сайты, сделанные с помощью конструктора сайтов Mobirise, на 100% оптимальны для мобильных устройств в соответствии с последними тестами Google, и Google нравятся такие сайты (официально)! ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://casper392945.github.io/mix/instagram/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM LIVE DEMO</a>"
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/slider03.jpg",
-                "contentAlign": "right",
-                "active": false,
-                "showButtons": false,
+                "contentAlign": "center",
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
@@ -102,13 +102,13 @@
                 "overlay": true,
                 "overlayOpacity": "0.2",
                 "text": "Слайд с фоновым изображением YouTube и цветным наложением.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://casper392945.github.io/mix/RailLogist/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"icon54-v1-cystern-railcar mbr-iconfont mbr-iconfont-btn\"></span>RAIL LOGISTICS LIVE DEMO</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slider04.jpg",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -116,13 +116,13 @@
                 "title": "BOOTSTRAP КОНСТРУКТОР",
                 "overlay": true,
                 "text": "Темы Mobirise разработаны на основе Bootstrap 3 и Bootstrap 4 – самом мощном мобильном фреймворке. Теперь и Вы можете стать частью процветающего Bootstrap-сообщества, даже если Вы не разбираетесь в коде.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://casper392945.github.io/mix/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>MOBIRISE 3 LIVE DEMO</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slider05.jpg",
-                "contentAlign": "left",
-                "active": true,
-                "showButtons": false,
+                "contentAlign": "center",
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -130,7 +130,7 @@
                 "title": "СОВРЕМЕННЫЕ БЛОКИ ДЛЯ САЙТА",
                 "overlay": true,
                 "text": "Bootstrap-карусель, контент-слайдер, фотогалерея с лайтбоксом, параллакс-скроллинг, фоновое видео, мобильное меню, закрепленный заголовок и многие другие. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://casper392945.github.io/review/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>DIRECTM LIVE DEMO</a>"
               }
             ]
           },
