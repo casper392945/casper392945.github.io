@@ -1,5 +1,204 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://casper392945.github.io/index.html</loc>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://casper392945.github.io/</loc>
+  <lastmod>2018-01-08T00:08:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/index.html</loc>
+  <lastmod>2018-01-08T00:08:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/Baikal/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/Omsk/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/RailLogist/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/ResumeTemplate/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/instagram/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/ChristmasTree/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/CountDown-1/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/CountDown/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/NewBuildings/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/SmartMockups/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/baikal/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/glips/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/mobirise3/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/DirectM/HowTo/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/DirectM/MyGadgets/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/DirectM/directm/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/ColorM/News/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/ColorM/demo/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/ColorM/resume/</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceM/SpaceM-1/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceM/SpaceMDemo/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceM/bluesea/</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/portfolio/</loc>
+  <lastmod>2017-12-17T09:37:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/review/</loc>
+  <lastmod>2017-12-17T09:39:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/Baikal/index.html</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise4/RailLogist/index.html</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/ChristmasTree/index.html</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/CountDown-1/index.html</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/Mobirise3/glips/index.html</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/DirectM/MyGadgets/index.html</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/ColorM/News/index.html</loc>
+  <lastmod>2017-12-15T07:09:07+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/new-mix/</loc>
+  <lastmod>2017-11-10T07:41:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/</loc>
+  <lastmod>2017-12-15T07:09:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceM/SpaceM-1/index.html</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/mix/SpaceM/bluesea/index.html</loc>
+  <lastmod>2017-12-15T07:09:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/review/index.html</loc>
+  <lastmod>2017-12-17T09:39:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/new-mix/index.html</loc>
+  <lastmod>2017-11-10T07:41:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
 </urlset>
