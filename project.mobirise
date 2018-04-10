@@ -1241,7 +1241,7 @@
       "settings": {
         "title": "Mobirise  Demo Pages",
         "meta_descr": "Great Web Sites\nLanding Pages\nMade by Using MOBIRISE",
-        "header_custom": "",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:site_name\" content=\"Mobirise Demo Page\">\n<meta property=\"og:title\" content=\"Mobirise Demo Page\">\n<meta property=\"og:description\" content=\"Great Web Sites\nLanding Pages\nMade by Using MOBIRISE.\">\n<meta property=\"og:url\" content=\"https://casper392945.github.io/page1.html\">\n<meta property=\"og:locale\" content=\"en_EU\">\n<meta property=\"og:image\" content=\"https://casper392945.github.io/screenshot-page1.png\">\n<!-- meta property=\"og:image:width\" content=\"968\" -->\n<!-- meta property=\"og:image:height\" content=\"504\" -->",
         "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a096409198bd56b8c03ac94/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": "",
         "order": 2
@@ -4414,7 +4414,7 @@
       "settings": {
         "title": "Free Bootstrap Templates",
         "meta_descr": "Awesome Free Bootstrap 4 Templates from Mobirise",
-        "header_custom": "",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:site_name\" content=\"Free Bootstrap Templates\">\n<meta property=\"og:title\" content=\"Free Bootstrap Templates\">\n<meta property=\"og:description\" content=\"Awesome Free Bootstrap 4 Templates from Mobirise.\">\n<meta property=\"og:url\" content=\"https://casper392945.github.io/page2.html\">\n<meta property=\"og:locale\" content=\"en_EU\">\n<meta property=\"og:image\" content=\"https://casper392945.github.io/screenshot-page2.png\">\n<!-- meta property=\"og:image:width\" content=\"968\" -->\n<!-- meta property=\"og:image:height\" content=\"504\" -->",
         "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a096409198bd56b8c03ac94/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
         "html_before": "",
         "order": 3
@@ -5083,7 +5083,8 @@
         "meta_descr": "Premium HTML Themes",
         "title": " Premium HTML Themes",
         "order": 1,
-        "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a096409198bd56b8c03ac94/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->"
+        "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a096409198bd56b8c03ac94/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:site_name\" content=\"Premium HTML Themes\">\n<meta property=\"og:title\" content=\"Premium HTML Themes\">\n<meta property=\"og:description\" content=\"\"Premium HTML Themes.\">\n<meta property=\"og:url\" content=\"https://casper392945.github.io/page3.html\">\n<meta property=\"og:locale\" content=\"en_EU\">\n<meta property=\"og:image\" content=\"https://casper392945.github.io/screenshot-page3.png\">\n<!-- meta property=\"og:image:width\" content=\"968\" -->\n<!-- meta property=\"og:image:height\" content=\"504\" -->"
       },
       "components": [
         {
