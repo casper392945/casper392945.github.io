@@ -1951,6 +1951,9 @@ body {
   margin: 0;
   padding: 0;
 }
+.cid-qLB1UFe37F .image-blur {
+  -webkit-filter: blur(6px);
+}
 .cid-qLB1UFe37F .card {
   margin-bottom: 2rem;
 }
@@ -2103,6 +2106,9 @@ body {
 }
 .cid-qM37rdPcIH .mbr-section-title {
   margin: 0;
+}
+.cid-qM37rdPcIH .image-blur {
+  -webkit-filter: blur(5px);
 }
 .cid-qM37rdPcIH .underline {
   margin-top: -0.5rem;
