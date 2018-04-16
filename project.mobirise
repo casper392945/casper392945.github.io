@@ -6139,7 +6139,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Tips and Tricks",
+        "meta_descr": "Tips and Trics. How to modify any MOBIRISE block.",
         "title": "Tips and Tricks",
         "order": 1,
         "footer_custom": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/5a096409198bd56b8c03ac94/default';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->\n<script src=\"https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js\"></script>",
