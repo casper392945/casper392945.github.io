@@ -6438,7 +6438,7 @@ body {
 }
 .cid-qPmOgiqoxP {
   padding-top: 135px;
-  padding-bottom: 45px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/question-mark-1872634-640-640x352.jpg");
 }
 .cid-qPmRHt1mI0 {
@@ -6506,6 +6506,26 @@ body {
   color: #767676;
 }
 .cid-qPmUWgLNU7 .prettyprint {
+  white-space: pre;
+}
+.cid-qPsuK0ghbK {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-qPsuK0ghbK .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qPsuWpWbbU {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qPsuWpWbbU .mbr-text,
+.cid-qPsuWpWbbU blockquote {
+  color: #767676;
+}
+.cid-qPsuWpWbbU .prettyprint {
   white-space: pre;
 }
 .cid-qPmO4FWYoB {
