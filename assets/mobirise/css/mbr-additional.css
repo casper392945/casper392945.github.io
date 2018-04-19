@@ -6528,6 +6528,64 @@ body {
 .cid-qPsuWpWbbU .prettyprint {
   white-space: pre;
 }
+.cid-qPEajl48fw {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-qPEajl48fw .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qPDUt2EEVC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/abstract-3291293-641-640x360.jpg");
+}
+.cid-qPDUt2EEVC .card-img {
+  background-color: #fff;
+}
+.cid-qPDUt2EEVC .card-box {
+  padding: 2rem;
+}
+.cid-qPDUt2EEVC h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qPDUt2EEVC p {
+  text-align: left;
+}
+.cid-qPDUt2EEVC .mbr-text {
+  color: #767676;
+}
+.cid-qPDUt2EEVC .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qPDUt2EEVC .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-qPDUt2EEVC .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+.cid-qPEbptsIaD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qPEbptsIaD .mbr-text,
+.cid-qPEbptsIaD blockquote {
+  color: #767676;
+}
+.cid-qPEbptsIaD .prettyprint {
+  white-space: pre;
+}
 .cid-qPmO4FWYoB {
   padding-top: 30px;
   padding-bottom: 30px;
