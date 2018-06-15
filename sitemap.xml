@@ -9,32 +9,37 @@
 
 <url>
   <loc>https://casper392945.github.io/</loc>
-  <lastmod>2018-05-16T09:08:37+00:00</lastmod>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/index.html</loc>
-  <lastmod>2018-05-16T09:08:37+00:00</lastmod>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/page1.html</loc>
-  <lastmod>2018-05-16T09:08:37+00:00</lastmod>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/page2.html</loc>
-  <lastmod>2018-05-16T09:08:37+00:00</lastmod>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/page3.html</loc>
-  <lastmod>2018-05-16T09:08:37+00:00</lastmod>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/page4.html</loc>
-  <lastmod>2018-05-16T09:08:37+00:00</lastmod>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://casper392945.github.io/page5.html</loc>
+  <lastmod>2018-06-15T09:14:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -54,7 +59,7 @@
 </url>
 <url>
   <loc>https://casper392945.github.io/russian-translation/</loc>
-  <lastmod>2018-05-06T01:11:55+00:00</lastmod>
+  <lastmod>2018-06-15T05:09:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -249,12 +254,7 @@
 </url>
 <url>
   <loc>https://casper392945.github.io/russian-translation/index.html</loc>
-  <lastmod>2018-05-06T01:11:55+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://casper392945.github.io/new-mix/</loc>
-  <lastmod>2018-05-06T01:16:34+00:00</lastmod>
+  <lastmod>2018-06-15T05:09:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -333,6 +333,11 @@
   <priority>0.51</priority>
 </url>
 <url>
+  <loc>https://casper392945.github.io/new-mix/</loc>
+  <lastmod>2018-05-06T01:16:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://casper392945.github.io/mix/SpaceM/SpaceM-1/index.html</loc>
   <lastmod>2018-05-11T06:51:38+00:00</lastmod>
   <priority>0.51</priority>
@@ -345,27 +350,27 @@
 <url>
   <loc>https://casper392945.github.io/new-mix/index.html</loc>
   <lastmod>2018-05-06T01:16:34+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.41</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/mix/Mobirise3/NewBuildings/index.html</loc>
   <lastmod>2018-05-11T06:51:37+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.41</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/mix/SpaceM/SpaceMNews/index.html</loc>
   <lastmod>2018-05-11T06:51:38+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.41</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/casper-portfolio/</loc>
   <lastmod>2018-05-06T01:27:44+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.41</priority>
 </url>
 <url>
   <loc>https://casper392945.github.io/casper-portfolio/index.html</loc>
   <lastmod>2018-05-06T01:27:44+00:00</lastmod>
-  <priority>0.41</priority>
+  <priority>0.33</priority>
 </url>
 
 
